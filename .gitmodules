@@ -1,0 +1,3 @@
+[submodule "phshoppingcart"]
+	path = phshoppingcart
+	url = https://github.com/mezianefraga00/phshoppingcart.git
